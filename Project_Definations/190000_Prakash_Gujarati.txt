@@ -1,0 +1,2 @@
+1. Project is About Salon Application where 3 Roles Admin, Salon Owner, Customers.
+2. Vehicle Seasing Track/Log Application where 2 Roles Administrator, Agent
