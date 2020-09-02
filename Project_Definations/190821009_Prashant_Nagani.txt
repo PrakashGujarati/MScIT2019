@@ -1,0 +1,10 @@
+Project Defination:-
+Hostpital guide in asp.net(mvc)
+
+Features:-
+view reports
+view doctor
+doctor time and appoinment
+view charge
+bill view
+operation note
