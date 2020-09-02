@@ -1,1 +1,2 @@
 Project Title: Real Time Chat App with Laravel and Vue.js
+Objective : Chat application make live conversation with users. they can find live status of typing and reading.
