@@ -1,2 +1,0 @@
-project : online secondhand book sale 
-language : laravel
